@@ -1,0 +1,27 @@
+_repo: Conversations-d-une-petite-fille-avec-sa-poup-e--13-Suivies-de-l-histoire-de-la-poup-e_9891
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Renneville, Madame de (Sophie de Senneterre)
+    alias: Renneville, Sophie de Senneterre, dame de
+    birthdate: 1772
+    deathdate: 1822
+    gutenberg_agent_id: '3188'
+    url: http://www.gutenberg.org/2009/agents/3188
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9891'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, French'
+- GITenberg
+title: "Conversations d'une petite fille avec sa poupée\r\nSuivies de l'histoire de\
+  \ la poupée"
+url: http://www.gutenberg.org/ebooks/9891
